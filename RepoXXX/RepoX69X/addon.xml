@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<addon id="RepoX69X" name="[COLOR lime]JJMAPA Repositorio[/COLOR] XXX" version="1.1" provider-name="JJMAPA">
+    <extension point="xbmc.addon.repository" name="JJMAPA Repositorio">
+        <info>https://raw.githubusercontent.com/jjmapa/RepoX69X/master/RepoX69X/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/jjmapa/RepoX69X/master/RepoX69X/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/jjmapa/RepoX69X/master/RepoX69X/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio para Mis Addons XXX</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
